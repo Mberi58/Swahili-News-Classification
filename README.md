@@ -1,9 +1,9 @@
-**Swahili-News-Classification**
+# Swahili-News-Classification
 
 
 
 
-**Natural-Language-Processings-NLP-on-Swahili-News-Classification**
+## Natural-Language-Processings-NLP-on-Swahili-News-Classification
 
 
 
@@ -14,5 +14,5 @@ Develop a multi-class classification model to classify news content according to
 
 
 
-**Question**
+## Question
 To develop a multi-class classification machiene learning model to classify news content according to their specific categories with an accuracy of 80% and above
